@@ -1,0 +1,11 @@
+commit a5ef751311c0ddb6c55f4a71ec572491806b91c6
+Author: Femi Ajayi <femiajayi705@gmail.com>
+Date:   Fri Jul 8 14:28:53 2016 +0800
+
+    Added README.md
+
+commit ec9a472f158a38d21696b4b022204b0a90c7aba4
+Author: Femi Ajayi <femiajayi705@gmail.com>
+Date:   Fri Jul 8 14:23:11 2016 +0800
+
+    Created puppies.rb and initialized repository
